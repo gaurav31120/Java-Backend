@@ -1,0 +1,4 @@
+Here, I will put all code done in sequence.
+
+1 Info for Java
+2 Basics.java ----- List printing int and char
