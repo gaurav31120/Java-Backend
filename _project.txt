@@ -1,4 +1,5 @@
 Here, I will put all code done in sequence.
 
 1 Info for Java
-2 Basics.java ----- List printing int and char
+2 List1.java ----- List printing int and char
+2 List2.java ----- List adding values
